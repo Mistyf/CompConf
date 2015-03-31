@@ -4,6 +4,7 @@
 ![Comp Conf](http://s28.postimg.org/hjblyri99/compconf.png)
 # #Informace
 Tento program umožňuje konfiguraci vlastních, předem vybraných, kompatibilních PC komponentů do jedné sestavy.
+Uživatel pouze nahraje hlavní script a poté si ,dle svých potřeb, upraví vstupní parametry.
 - Autor: Martin Halva ([Mistyf](https://github.com/Mistyf))
 - Jazyk: [PHP](http://www.php.net)
 - V programu: [NetBeans IDE](https://netbeans.org/)
