@@ -8,7 +8,7 @@ Tento program umožňuje konfiguraci vlastních, předem vybraných, kompatibiln
 - V programu: [NetBeans IDE](https://netbeans.org/)
 - Online verze: [Zde](http://73s7.xf.cz/CompConf2.php)
 - Dokumentace: [Zde](http://73s7.xf.cz/Documentation/)
-- Licence: MIT
+- Licence: [MIT](https://github.com/Mistyf/CompConf/blob/master/LICENSE)
 
 # #Instalace
 Soubor `CompConf.php` nahrajte do vámi zvoleného adresáře (poté je potřeba upravit cestu u require)
