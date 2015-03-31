@@ -7,7 +7,7 @@ Tento program umožňuje konfiguraci vlastních, předem vybraných, kompatibiln
 - Jazyk: [PHP](http://www.php.net)
 - V programu: [NetBeans IDE](https://netbeans.org/)
 - Online verze: [Zde](http://73s7.xf.cz/CompConf2.php)
-- Dokumentace:[Zde](http://73s7.xf.cz/Documentation/)
+- Dokumentace: [Zde](http://73s7.xf.cz/Documentation/)
 - Licence: MIT
 
 # #Instalace
