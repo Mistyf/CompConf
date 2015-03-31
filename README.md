@@ -1,4 +1,5 @@
 # CompConf (v1.0)
+#<b>Online computer component configurator</b>
 
 ![Comp Conf](http://s28.postimg.org/hjblyri99/compconf.png)
 # #Informace
