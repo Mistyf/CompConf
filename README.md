@@ -2,7 +2,7 @@
 #<b>Online computer component configurator</b>
 
 ![Comp Conf](http://s28.postimg.org/hjblyri99/compconf.png)
-# #Informace [CZ/EN]
+# #Informations [CZ/EN]
 Tento program umožňuje konfiguraci vlastních, předem vybraných, kompatibilních PC komponentů do jedné sestavy.
 Uživatel pouze nahraje hlavní script a poté si ,dle svých potřeb, upraví vstupní parametry.
 
