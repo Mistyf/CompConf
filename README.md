@@ -3,11 +3,11 @@
 
 ![Comp Conf](http://s28.postimg.org/hjblyri99/compconf.png)
 # #Informations [CZ/EN]
-Tento program umožňuje konfiguraci vlastních, předem vybraných, kompatibilních PC komponentů do jedné sestavy.
-Uživatel pouze nahraje hlavní script a poté si ,dle svých potřeb, upraví vstupní parametry.
+Tento open source program umožňuje konfiguraci vlastních, předem vybraných, kompatibilních PC komponentů do jedné sestavy.
+Uživatel pouze nahraje hlavní script a poté si ,dle svých potřeb, upraví vstupní parametry. Kód obsahuje anglické komentáře.
 
-This PHP script allows you to configurate, in advance selected, self compatible PC components together.
-User just upload main script to his website, then he can freely modify input parameters.
+This open source PHP script allows you to configurate, in advance selected, self compatible PC components together.
+User just upload main script to his website, then he can freely modify input parameters. The code is fully commented in english.
 
 - Author: Martin Halva ([Mistyf](https://github.com/Mistyf))
 - Language: [PHP](http://www.php.net)
