@@ -16,15 +16,15 @@ User just upload main script to his website, then he can freely modify input par
 - Documentation: [Here](http://73s7.xf.cz/Documentation/)
 - License: [MIT](https://github.com/Mistyf/CompConf/blob/master/LICENSE)
 
-# #Instalace [CZ/EN]
+# #Instalation [CZ/EN]
 1) Soubor `CompConf.php` nahrajte do vámi zvoleného adresáře (poté je potřeba upravit cestu u require)
 
-1) File `CompConf.php` upload to your website directory (edit path to file then)
+   File `CompConf.php` upload to your website directory (edit path to file then)
 
 
 2) Tento kód vložte na svojí stránku, kde chcete nagenerovat tabulku:
 
-2) This source code paste into your website, where you want to generate parameter table:
+   This source code paste into your website, where you want to generate parameter table:
 
 ``` bash
 require 'CompConf.php';
@@ -39,7 +39,7 @@ echo $t;
 
 3) hodnoty v závorkách udávají parametry komponentů. Zachovejte datové typy.
 
-3) values in brackets defines input parameters of components. Keep string and integer values.
+   values in brackets defines input parameters of components. Keep string and integer values.
 
 # #Verze [CZ]
 - Verze 1.0   (31.3.2015) => [CompConf v1.0](https://github.com/Mistyf/CompConf/blob/master/CompConf.php)
