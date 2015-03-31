@@ -47,7 +47,7 @@ echo $t;
 
 # #Version [EN]
 - Version 1.0   (31.3.2015) => [CompConf v1.0](https://github.com/Mistyf/CompConf/blob/master/CompConf.php)
-- Version 2.0 (in future) => Better css stylization, inputing parameters directly from website and more
+- Version 2.0 (in future) => Better css stylization, input parameters directly from website and more
 
 # #Podpora [CZ]
 - Našli jste chybu? máte problém? dotazy zde => [GitHub Issues](https://github.com/Mistyf/CompConf/issues)
