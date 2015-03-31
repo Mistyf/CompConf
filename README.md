@@ -27,7 +27,7 @@ echo $t;
 hodnoty v závorkách udávají parametry komponentů.
 
 # #Verze
-- Verze 1.0   (31.3.2015) => [CompConf v1.0](https://github.com/Mistyf/CompConf)
+- Verze 1.0   (31.3.2015) => [CompConf v1.0](https://github.com/Mistyf/CompConf/blob/master/CompConf.php)
 
 # #Podpora
 - Našli jste chybu? máte problém? dotazy zde => [GitHub Issues](https://github.com/Mistyf/CompConf/issues)
