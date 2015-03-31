@@ -6,6 +6,7 @@ Tento program umožňuje konfiguraci vlastních, předem vybraných, kompatibiln
 - Autor: Martin Halva ([Mistyf](https://github.com/Mistyf))
 - Jazyk: [PHP](php.net)
 - V programu: [NetBeans IDE](https://netbeans.org/)
+- online verze: [Zde](http://73s7.xf.cz/CompConf2.php)
 
 # #Instalace
 Soubor `CompConf.php` nahrajte do vámi zvoleného adresáře (poté je potřeba upravit cestu u require)
