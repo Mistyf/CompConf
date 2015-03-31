@@ -28,5 +28,5 @@ hodnoty v závorkách udávají parametry komponentů.
 - Verze 1.0   (31.3.2015) => [CompConf v1.0](https://github.com/Mistyf/CompConf)
 
 # #Podpora
-- Našli jste chybu? máte dotaz? dotazy zde => [GitHub Issues](https://github.com/Mistyf/CompConf/issues)
+- Našli jste chybu? máte problém? dotazy zde => [GitHub Issues](https://github.com/Mistyf/CompConf/issues)
 - Nebo na pracovní email => [halviscze@gmail.com](halviscze@gmail.com)
