@@ -44,7 +44,7 @@ echo $t;
 # #Verze [CZ]
 - Verze 1.0   (31.3.2015) => [CompConf v1.0](https://github.com/Mistyf/CompConf/blob/master/CompConf.php)
 - Verze 2.0 (v přípravách) => Lepší grafické zpracování, vkládání parametrů přímo z webu a další rozšíření
-- 
+
 # #Version [EN]
 - Version 1.0   (31.3.2015) => [CompConf v1.0](https://github.com/Mistyf/CompConf/blob/master/CompConf.php)
 - Version 2.0 (in future) => Better css stylization, inputing parameters directly from website and more
