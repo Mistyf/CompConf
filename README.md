@@ -4,7 +4,7 @@
 # #Informace
 Tento program umožňuje konfiguraci vlastních, předem vybraných, kompatibilních PC komponentů do jedné sestavy.
 - Autor: Martin Halva ([Mistyf](https://github.com/Mistyf))
-- Jazyk: [PHP](php.net)
+- Jazyk: [PHP](http://www.php.net)
 - V programu: [NetBeans IDE](https://netbeans.org/)
 - online verze: [Zde](http://73s7.xf.cz/CompConf2.php)
 
