@@ -4,7 +4,7 @@
 # #Informace
 Tento program umožňuje konfiguraci vlastních, předem vybraných, kompatibilních PC komponentů do jedné sestavy.
 - Autor: Martin Halva ([Mistyf](https://github.com/Mistyf))
-- Jazyk: [PHP](php.net)
+- Jazyk: [PHP](http://www.php.net)
 - V programu: [NetBeans IDE](https://netbeans.org/)
 - online verze: [Zde](http://73s7.xf.cz/CompConf2.php)
 
@@ -24,6 +24,9 @@ echo $t;
 ```
 hodnoty v závorkách udávají parametry komponentů.
 
+# #Verze
+- Verze 1.0   (31.3.2015) => [CompConf v1.0](https://github.com/Mistyf/CompConf)
+
 # #Podpora
-- Našli jste chybu? máte dotaz? dotazy zde => [GitHub Issues](https://github.com/Mistyf/CompConf/issues)
+- Našli jste chybu? máte problém? dotazy zde => [GitHub Issues](https://github.com/Mistyf/CompConf/issues)
 - Nebo na pracovní email => [halviscze@gmail.com](halviscze@gmail.com)
